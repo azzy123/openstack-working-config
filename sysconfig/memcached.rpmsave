@@ -1,0 +1,5 @@
+PORT="11211"
+USER="memcached"
+MAXCONN="2048"
+CACHESIZE="64"
+OPTIONS="-l 127.0.0.1,::1,mpc-os-01.mpc.netapp.com,mpc-os-01"
